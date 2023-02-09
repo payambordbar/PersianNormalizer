@@ -6,7 +6,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianNormalizer", "src\Pe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{665D8F96-4969-496A-B713-9EABA39B0D87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianNormalizer.UnitTest", "tests\PersianNormalizer.UnitTest\PersianNormalizer.UnitTest.csproj", "{229520F5-E993-4FF7-B07A-042298912E27}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianNormalizer.IntegrationTest", "tests\PersianNormalizer.IntegrationTest\PersianNormalizer.IntegrationTest.csproj", "{229520F5-E993-4FF7-B07A-042298912E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
