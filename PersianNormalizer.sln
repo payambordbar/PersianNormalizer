@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{AE7A2138-39E2-4CE9-A686-3BF94A677CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianNormalizer", "src\PersianNormalizer\PersianNormalizer.csproj", "{F428C680-4ACF-4238-A58B-06A9D432A528}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{665D8F96-4969-496A-B713-9EABA39B0D87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersianNormalizer.UnitTest", "tests\PersianNormalizer.UnitTest\PersianNormalizer.UnitTest.csproj", "{229520F5-E993-4FF7-B07A-042298912E27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F428C680-4ACF-4238-A58B-06A9D432A528} = {AE7A2138-39E2-4CE9-A686-3BF94A677CE3}
+		{229520F5-E993-4FF7-B07A-042298912E27} = {665D8F96-4969-496A-B713-9EABA39B0D87}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F428C680-4ACF-4238-A58B-06A9D432A528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F428C680-4ACF-4238-A58B-06A9D432A528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F428C680-4ACF-4238-A58B-06A9D432A528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F428C680-4ACF-4238-A58B-06A9D432A528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229520F5-E993-4FF7-B07A-042298912E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229520F5-E993-4FF7-B07A-042298912E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229520F5-E993-4FF7-B07A-042298912E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229520F5-E993-4FF7-B07A-042298912E27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
